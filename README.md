@@ -74,8 +74,6 @@ Now, Queue becomes empty, So, terminate these process of iteration.
 ```
 from collections import deque
 from collections import defaultdict
-
-
 '''
 V E
 FOR EVERY EDGE
@@ -155,7 +153,6 @@ G F <BR>
 <hr>
 
 ## OUTPUT
-
 ![image](https://github.com/user-attachments/assets/1eefffbe-f985-4efe-a34f-6ee101066eca)
 
 <h3>Result:</h3>
